@@ -143,7 +143,7 @@ class App extends Component {
               Follow @alfreduc
             </a>
             <a className="blogLink" href="https://aluc.io/">
-              My blog real world demo
+              My blog real world demo!!@@
             </a>
           </div>
         </header>
