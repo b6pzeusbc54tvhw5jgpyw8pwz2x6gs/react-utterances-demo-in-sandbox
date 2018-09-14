@@ -1,2 +1,2 @@
-# react-utterances-demo-in-sandbox
-Created with CodeSandbox
+# react-uttereances-demo
+It is bootstraped by create-react-app
